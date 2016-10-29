@@ -10,7 +10,7 @@ title: manimax3
 email: manimax3@hotmail.de
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>This is my blog about the projects Im currently working on.</h3>"
+description: "<h3>Devlogs about my projects and more...</h3>"
 
 
 
@@ -21,3 +21,5 @@ github_username:  manimax3
 
 # Build settings
 markdown: kramdown
+future: false
+show_drafts: false

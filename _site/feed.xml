@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manimax3</title>
-    <description>&lt;h3&gt;This is my blog about the projects Im currently working on.&lt;/h3&gt;</description>
+    <description>&lt;h3&gt;Devlogs about projects and more...&lt;/h3&gt;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 11:01:13 +0200</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 11:01:13 +0200</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 15:22:09 +0200</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 15:22:09 +0200</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Welcome to my new blog</title>
-        <description>&lt;p&gt;So I finally found the time to create a blog. I will write about many things, including the projects Im currently working on
+        <description>&lt;p&gt;So I finally found the time to create a blog. I will write about many things, including the projects I’m currently working on
 and the problems I have to solve or stuff I plan to do in the near or far future.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 May 2016 18:31:43 +0200</pubDate>
