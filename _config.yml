@@ -23,3 +23,4 @@ github_username:  manimax3
 markdown: kramdown
 future: false
 show_drafts: false
+excerpt_separator: ""
